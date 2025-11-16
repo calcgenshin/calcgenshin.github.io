@@ -1,2 +1,2 @@
 # calcgenshin.github.io
-Genshin Calculator
+original project - https://github.com/mongolrgata/genshin_calc_pub
